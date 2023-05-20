@@ -6,9 +6,10 @@
   /* border: 2px solid red; */
 }
 
-body {
+.container {
   background-color: rgb(36, 95, 97);
   border: 9px solid rgb(4, 4, 66);
+  width:100vw;
 }
 
 .image {
