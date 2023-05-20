@@ -1,0 +1,68 @@
+* {
+  /* padding: 0;
+  margin: 0; */
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  /* border: 2px solid red; */
+}
+
+body {
+  background-color: rgb(36, 95, 97);
+  border: 9px solid rgb(4, 4, 66);
+}
+
+.image {
+  width: 30%;
+  border-radius: 400px;
+  margin-left: 4em;
+  margin-top: 3em;
+}
+
+.heading1 {
+  font-size: 4rem;
+}
+.heading2 {
+  font-size: 3rem;
+}
+
+.heading1,
+.heading2 {
+  margin-left: 50vw;
+  margin-top: -2vh;
+}
+
+.topic,
+.content {
+  text-align: justify;
+  margin-right: 2em;
+}
+
+.topic {
+  font-size: 5rem;
+  font-weight: 600;
+  margin-left: 2em;
+  margin-top: 1em;
+}
+.content {
+    text-indent: 7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  margin-left: 2em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.achievements{font-size: 3rem;
+margin-left: 3em;
+font-weight: 700;}
+
+ul li{ 
+    margin: 1em;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.ending{font-size: 2rem;
+text-align: right;
+margin-right: 1em;
+margin-top: 2em;}
