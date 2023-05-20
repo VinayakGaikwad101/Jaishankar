@@ -9,7 +9,7 @@
 .container {
   background-color: rgb(36, 95, 97);
   border: 9px solid rgb(4, 4, 66);
-  width:100vw;
+  display: inline-block;
 }
 
 .image {
